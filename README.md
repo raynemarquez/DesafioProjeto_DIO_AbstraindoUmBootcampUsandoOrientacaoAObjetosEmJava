@@ -1,6 +1,4 @@
-<h1>
-Abstraindo um Bootcamp Usando Orientação a Objetos em Java
-</h1>
+<h1>Abstraindo um Bootcamp Usando Orientação a Objetos em Java</h1>
 
 <p>Desafio proposto: 
 
