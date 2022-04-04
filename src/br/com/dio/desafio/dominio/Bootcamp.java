@@ -56,6 +56,18 @@ public class Bootcamp {
     }
 
     @Override
+    public String toString() {
+        return "Bootcamp{" +
+                "nome='" + nome + '\'' +
+                ", descricao='" + descricao + '\'' +
+                ", dataInicial=" + dataInicial +
+                ", dataFinal=" + dataFinal +
+                ", devsInscritos=" + devsInscritos +
+                ", conteudos=" + conteudos +
+                '}';
+    }
+
+    @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
